@@ -1,0 +1,21 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/spf13/hugoThemes#themetoml for an example
+
+name = "你的 Orientation"
+license = "MIT"
+licenselink = "https://github.com/lmfamily/orientation/blob/master/LICENSE.md"
+description = "送给中国学生的 Orientation "
+homepage = "https://github.com/lmfamily/orientation/"
+repo = "https://github.com/lmfamily/orientation"
+tags = ["中国学生", "Orientation"]
+features = ["documentation", "menu", "nested sections", "search", "mermaid"]
+min_version = 0.14
+
+[author]
+  name = "LM Family"
+  homepage = "http://lmfamily.github.io/"
+
+[original]
+  name = "Orientation"
+  homepage = "http://lmfamily.github.io/orientation"
+  repo = "https://github.com/lmfamily/orientation"
